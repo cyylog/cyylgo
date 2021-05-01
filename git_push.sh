@@ -11,6 +11,3 @@ git branch -M main
 git remote add origin git@github.com:cyylog/cyylgo.git
 git push -u origin main
 echo "远程推送完成"
-
-
-
