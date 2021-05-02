@@ -27,6 +27,36 @@
   <component name="ChangeListManager">
     <list default="true" id="af6b8509-1b26-49bb-ad09-8cb81c20d10c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/api/upload/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/api/video/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/assets/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/assets/styles/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/components/NavBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/plugins/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/views/PostVideo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/src/views/ShowVideo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyylogv/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/cors.go" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/cors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/video.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/video.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/create_video_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/service/create_video_service.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
